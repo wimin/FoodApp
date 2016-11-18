@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FoodApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="customer_recommend">顾客推荐</string>
+    <string name="food_add">+</string>
+    <string name="food_minus">-</string>
+
+</resources>
