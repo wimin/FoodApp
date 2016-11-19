@@ -25,4 +25,10 @@
         android:layout_height="0dp"
         android:layout_weight="4"/>
     
+    <include 
+        layout="@layout/menu_bottom"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"/>
+  
 </LinearLayout>
